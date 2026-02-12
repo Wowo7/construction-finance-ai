@@ -1,0 +1,9 @@
+*** Completed | ZIP file attached***
+
+Hi, I was so curious about this project so I went ahead and built it.
+
+It's a working Next.js 15 + Supabase + AI chat prototype with 5 AI tools that query construction budget data through Supabase RPC functions. The assistant can break down budgets by trade, compare projects, find overspent packages, and drill into specific line items - all in plain English. I loaded 3 demo projects (Downtown Office Tower $28.5M, Riverside Medical $42M, Lakewood Elementary $8.2M) with realistic financial data so you can test it right away.
+
+I've tested it and it's working. You can follow my README.md for installation. Let me know if we can work together to refine any details. Thank you
+
+Gin
