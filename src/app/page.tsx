@@ -2,7 +2,7 @@ import ChatInterface from "./components/ChatInterface";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
+    <main className="h-screen flex flex-col bg-gradient-to-b from-slate-50 to-white overflow-hidden">
       {/* Header */}
       <header className="border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-10">
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
